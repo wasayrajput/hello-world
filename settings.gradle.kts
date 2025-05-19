@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HelloWidgets"
+rootProject.name = "ResultExchange"
 include(":app")
  
